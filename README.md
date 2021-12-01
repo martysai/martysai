@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Marat!
+- 🔭 Machine Learning Engineer at [**Rubbles (SBDA Group)**](https://sbdagroup.com/)
+- 🎓 BSc at Higher School of Economics
+- 🇷🇺 Moscow, Russia
 
-<!--
-**MaratSaidov/MaratSaidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech stack:
+- 🧑🏻‍💻 **SWE**: Python, Spark, Go, Docker, CI/CD
+- 🧑🏻‍💻 **MLE**: PyTorch
 
-Here are some ideas to get you started:
+# Get in touch:
+- 📫 Telegram: [**@msaidov**](https://t.me/msaidov)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests**: Natural Language Processing, MLOps, Data Engineering
+
+<a href="https://github.com/MaratSaidov"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaratSaidov&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/> 
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratSaidov&hide_border=true&langs_count=3&theme=tokyonight&hide=java,tex,makefile,html"/>
+</a>
