@@ -1,5 +1,5 @@
 # Hello, I'm Marat!
-- 🔭 Machine Learning Engineer at [**Rubbles (SBDA Group)**](https://rubbles.ru/)
+- 🔭 Data Scientist at [**Rubbles (SBDA Group)**](https://rubbles.ru/)
 - 🎓 BSc at Higher School of Economics
 - 🇷🇺 Moscow, Russia
 
