@@ -1,16 +1,16 @@
 # Hello, I'm Marat!
-- 🔭 Machine Learning Engineer at [**Rubbles (SBDA Group)**](https://sbdagroup.com/)
+- 🔭 Machine Learning Engineer at [**Rubbles (SBDA Group)**](https://rubbles.ru/)
 - 🎓 BSc at Higher School of Economics
 - 🇷🇺 Moscow, Russia
 
 # Tech stack:
-- 🧑🏻‍💻 **SWE**: Python, Spark, Go, Docker, CI/CD
+- 🧑🏻‍💻 **SWE**: Python, Spark, Go, MLOps Tools
 - 🧑🏻‍💻 **MLE**: PyTorch
 
 # Get in touch:
 - 📫 Telegram: [**@msaidov**](https://t.me/msaidov)
 
-**Interests**: Natural Language Processing, MLOps, Data Engineering
+**Interests**: Natural Language Processing, MLOps, Data Engineering, Efficient & Distributed Systems for DL
 
 <a href="https://github.com/MaratSaidov"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaratSaidov&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/> 
