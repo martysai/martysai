@@ -1,11 +1,12 @@
 # Hello, I'm Marat!
 - 🔭 Data Scientist at [**Rubbles (SBDA Group)**](https://rubbles.ru/)
-- 🎓 BSc at Higher School of Economics
+- 👨‍🔬 Research Intern at [**Laboratory of Computational Pragmatics**](https://cs.hse.ru/ai/computational-pragmatics/)
+- 🎓 BSc at [**Higher School of Economics**](https://www.hse.ru/)
 - 🇷🇺 Moscow, Russia
 
 # Tech stack:
-- 🧑🏻‍💻 **SWE**: Python, Spark, Go, MLOps Tools
-- 🧑🏻‍💻 **MLE**: PyTorch
+- 🧑🏻‍💻 **SWE**: Python, Spark, Go, MLOps Tools, DevOps
+- 🧑🏻‍💻 **MLE**: PyTorch, HuggingFace, GBM Frameworks
 
 # Get in touch:
 - 📫 Telegram: [**@msaidov**](https://t.me/msaidov)
