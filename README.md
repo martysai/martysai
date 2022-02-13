@@ -4,14 +4,16 @@
 - 🎓 BSc at [**Higher School of Economics**](https://www.hse.ru/)
 - 🇷🇺 Moscow, Russia
 
-# Tech stack:
+### Tech stack:
 - 🧑🏻‍💻 **SWE**: Python, Spark, Go, MLOps Tools, DevOps
 - 🧑🏻‍💻 **MLE**: PyTorch, HuggingFace, GBM Frameworks
 
-# Get in touch:
+### Get in touch:
 - 📫 Telegram: [**@msaidov**](https://t.me/msaidov)
 
-**Interests**: Natural Language Processing, MLOps, Data Engineering, Efficient & Distributed Systems for DL
+### Interests:
+
+- 📚 Natural Language Processing, MLOps, Data Engineering, Efficient & Distributed Systems for DL
 
 <a href="https://github.com/MaratSaidov"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaratSaidov&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/> 
