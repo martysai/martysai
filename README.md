@@ -5,7 +5,7 @@
 - 🇷🇺 Moscow, Russia
 
 ### Tech stack:
-- 🧑🏻‍💻 **SWE**: Python, Spark, Go, MLOps Tools, DevOps
+- 🧑🏻‍💻 **SWE**: Python, Spark, Go, MLOps/DevOps
 - 🧑🏻‍💻 **MLE**: PyTorch, HuggingFace, GBM Frameworks
 
 ### Get in touch:
