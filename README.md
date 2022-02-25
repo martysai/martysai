@@ -1,6 +1,6 @@
 # Hello, I'm Marat!
 - 🔭 Data Scientist at [**Rubbles (SBDA Group)**](https://rubbles.ru/)
-- 👨‍🔬 Research Intern at [**Laboratory of Computational Pragmatics**](https://cs.hse.ru/ai/computational-pragmatics/)
+- 👨‍🔬 Research Intern at [**PragmaticsLab**](https://cs.hse.ru/ai/computational-pragmatics/)
 - 🎓 BSc at [**HSE University**](https://www.hse.ru/)
 - 🇷🇺 Moscow, Russia
 
