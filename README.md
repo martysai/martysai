@@ -1,5 +1,5 @@
 # Hello, I'm Marat!
-- 🔭 ML Engineer at [**Rubbles (SBDA Group)**](https://rubbles.ru/)
+- 🔭 ML Engineer at [**Rubbles (SBDA Group)**](https://sbdagroup.com/)
 - 👨‍🔬 Research Intern at [**Pragmatics Lab**](https://cs.hse.ru/ai/computational-pragmatics/)
 - 🎓 BSc at [**HSE University**](https://www.hse.ru/)
 - 🇷🇺 Moscow, Russia
