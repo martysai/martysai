@@ -5,7 +5,7 @@
 - 🇷🇺 Moscow, Russia
 
 ### Tech stack:
-- 🧑🏻‍💻 Python, Spark, Go, MLOps/DevOps, PyTorch, GBM Frameworks
+- 🧑🏻‍💻 Python, Spark, Go, MLOps/DevOps, PyTorch
 
 ### Get in touch:
 - 📫 Telegram: [**@msaidov**](https://t.me/msaidov)
