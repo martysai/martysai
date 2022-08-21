@@ -8,7 +8,8 @@
 - 🧑🏻‍💻 Python, Spark, Go, MLOps/DevOps, PyTorch
 
 ### Get in touch:
-- 📫 Telegram: [**@msaidov**](https://t.me/msaidov)
+- LinkedIn: [**@msaidov**](https://www.linkedin.com/in/msaidov/)
+- Telegram: [**@msaidov**](https://t.me/msaidov)
 
 ### Interests:
 
