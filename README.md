@@ -17,5 +17,5 @@
 
 <a href="https://github.com/MaratSaidov"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaratSaidov&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/> 
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratSaidov&hide_border=true&langs_count=3&theme=tokyonight&hide=java,tex,makefile,html"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratSaidov&hide_border=true&count_private=true&langs_count=3&theme=tokyonight&hide=java,tex,makefile,html,jupyter%20notebook"/>
 </a>
