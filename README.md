@@ -2,7 +2,7 @@
 - 🔭 ML Engineer at [**Rubbles (SBDA Group)**](https://sbdagroup.com/)
 - 👨‍🔬 Research Assistant at [**Pragmatics Lab**](https://cs.hse.ru/ai/computational-pragmatics/), HSE University
 - 🎓 BSc at [**HSE University**](https://www.hse.ru/)
-- 🇰🇿 Kazakhstan
+- 🇹🇭 Phuket, Thailand
 
 ### Tech stack:
 - 🧑🏻‍💻 Python, Spark, Go, MLOps/DevOps, PyTorch
