@@ -4,9 +4,6 @@
 - 🎓 BSc at [**HSE University**](https://cs.hse.ru/en/)
 - 🇹🇭 Phuket, Thailand
 
-### Tech stack:
-- 🧑🏻‍💻 Python, Spark, Go, MLOps/DevOps, PyTorch
-
 ### Get in touch:
 - Website: [msaidov.com](https://msaidov.com/)
 - LinkedIn: [**@msaidov**](https://www.linkedin.com/in/msaidov/)
@@ -14,4 +11,4 @@
 
 ### Interests:
 
-- 📚 Natural Language Processing, MLOps, Data Engineering, Efficient & Distributed Systems for DL
+- 📚 Natural Language Processing, Deep Learning in Audio, Efficient & Distributed Systems for DL, MLOps and Infrastructure Development
