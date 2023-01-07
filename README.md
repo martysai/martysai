@@ -1,6 +1,6 @@
 # Hello, I'm Marat!
 - 🔭 ML Engineer at [**Rubbles (SBDA Group)**](https://sbdagroup.com/)
-- 👨‍🔬 Part-time NLP Researcher [**Pragmatics Lab**](https://cs.hse.ru/en/ai/computational-pragmatics/), HSE University
+- 👨‍🔬 NLP Research Assistant [**Pragmatics Lab**](https://cs.hse.ru/en/ai/computational-pragmatics/), HSE University
 - 🎓 BSc in Math and Information Science at [**HSE University**](https://cs.hse.ru/en/)
 - 🇹🇭 Phuket, Thailand
 
