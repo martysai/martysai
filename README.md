@@ -11,7 +11,7 @@
 
 ### Interests:
 
-- 📚 Natural Language Processing
-- 📚 Deep Learning in Audio, Speech technologies
-- 📚 Efficient & Distributed Systems in DL
-- 📚 MLOps and ML Infrastructure Development
+- 📚 Natural language processing
+- 📚 Efficient & distributed systems in DL
+- 📚 Deep learning in audio, speech technologies
+- 📚 MLOps and ML infrastructure development
