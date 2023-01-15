@@ -7,7 +7,7 @@
 ### Get in touch:
 - Website: [msaidov.com](https://msaidov.com/)
 - LinkedIn: [**in/msaidov**](https://www.linkedin.com/in/msaidov/)
-- Telegram: [**t.me/msaidov**](https://t.me/msaidov)
+- Telegram: [**t.me/datahumanbeing**](https://t.me/datahumanbeing)
 
 ### Interests:
 
