@@ -1,5 +1,5 @@
 ### Hey, I'm Marat 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/m_saidow?label=Follow)](https://twitter.com/m_saidow)
+[![Twitter Follow](https://img.shields.io/badge/Marat%20Saidov-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/m_saidow)
 [![Linkedin: msaidov](https://img.shields.io/badge/-Marat%20Saidov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msaidov/)](https://www.linkedin.com/in/msaidov/)
 [![Scholar](https://img.shields.io/badge/-Google%20Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF&link=https://scholar.google.com/citations?user=w9JHvdYAAAAJ)](https://scholar.google.com/citations?user=w9JHvdYAAAAJ&hl=en)
 ![Profile views](https://gpvc.arturio.dev/maratsaidov)
