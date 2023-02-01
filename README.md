@@ -9,7 +9,7 @@
 
 ### Briefly:
 
-- 🔭 I build machine learning products
+- 🔭 Engineering the Speech Recognition Core at [**Yandex Technologies**](https://yandex.com/company)
 - 👨‍🔬 NLP Research Assistant at [**MMCP Lab**](https://cs.hse.ru/en/ai/computational-pragmatics/), HSE University
 - 🎓 BSc at [**HSE University**](https://cs.hse.ru/en/)
 - 🇷🇸 Belgrade, Serbia
