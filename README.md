@@ -17,7 +17,7 @@
 - 📚 Natural language processing
 - 📚 MLOps and ML infrastructure development
 - 📚 Efficient & distributed systems in DL
-- 📚 Deep learning in audio, speech technologies
+- 📚 Deep learning in audio, speech signal processing
 
 ### More:
 - Telegram channel: [**t.me/datahumanbeing**](https://t.me/datahumanbeing)
