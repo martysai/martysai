@@ -6,9 +6,9 @@
 
 ### Briefly:
 
-- 🔈 NLU and ASR at [**Alice Team**](https://en.wikipedia.org/wiki/Alice_(virtual_assistant)), [**Yandex Technologies**](https://yandex.com/company).
+- 🧑‍💻 SWE at [**Applied Sciences Group, Microsoft**](https://www.microsoft.com/applied-sciences).
+- 🧑‍💻 Ex-NLU and ASR at [**Alice Team**](https://en.wikipedia.org/wiki/Alice_(virtual_assistant)), [**Yandex Technologies**](https://yandex.com/company).
 - 👨‍🔬 Ex-NLP Research Assistant at [**MMCP Lab**](https://cs.hse.ru/en/ai/computational-pragmatics/), HSE University
-- 🧑‍💻 Ex-MLE at startups, Ex-Huawei
 - 🎓 BSc in Machine Learning at [**HSE University**](https://cs.hse.ru/en/)
 - 🇷🇸 Belgrade, Serbia
 
