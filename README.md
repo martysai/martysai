@@ -6,7 +6,7 @@
 
 ### Briefly:
 
-- 🧑‍💻 SWE at [**Applied Sciences Group, Microsoft**](https://www.microsoft.com/applied-sciences)
+- 🧑‍💻 SWE at [**Applied Sciences Group, Microsoft**](https://www.microsoft.com/applied-sciences/people/marat-saidov)
 - 🧑‍💻 Ex-NLU and ASR at [**Alice Team**](https://en.wikipedia.org/wiki/Alice_(virtual_assistant)), [**Yandex Technologies**](https://yandex.com/company)
 - 👨‍🔬 Ex-NLP Research Assistant at [**MMCP Lab**](https://cs.hse.ru/en/ai/computational-pragmatics/), [**HSE University**](https://cs.hse.ru/en/)
 - 🎓 BSc in Machine Learning at [**HSE University**](https://cs.hse.ru/en/)
